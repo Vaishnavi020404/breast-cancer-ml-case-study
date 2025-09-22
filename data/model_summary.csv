@@ -1,0 +1,5 @@
+Model,Accuracy,True Positives,True Negatives,False Positives,False Negatives
+Decision Tree,0.977,512,465,13,10
+Logistic Regression,0.894,476,418,60,46
+SVM,0.864,484,380,98,38
+Random Forest,0.987,516,471,7,6
